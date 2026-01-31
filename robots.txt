@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khanhai.github.io/ilyaschohan-website/sitemap.xml
